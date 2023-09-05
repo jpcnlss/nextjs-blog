@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'JAYPEE CANLAS';
+const name = 'JAYPEE PABUSTAN CANLAS';
 export const siteTitle = 'JAYPEE CANLAS Sample Website';
 
 export default function Layout({ children, home }) {
@@ -33,7 +33,7 @@ export default function Layout({ children, home }) {
               src="/images/profile.jpg"
               className={utilStyles.borderCircle}
               height={200}
-              width={200}
+              width={150}
               alt=""
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
