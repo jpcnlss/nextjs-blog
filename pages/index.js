@@ -9,12 +9,18 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>During my internship at TwistResources Inc., I had the opportunity to immerse myself in the dynamic world of networking and troubleshooting. 
-	  Each day was a valuable learning experience as I delved into the intricacies of managing and optimizing network systems. Not only did I gain 
-	  hands-on experience in these crucial areas, but the team at TwistResources also generously imparted their knowledge on deploying in AWS, expanding 
-		  my skill set significantly. Furthermore, the internship provided a fantastic platform for networking, both in terms of forging new friendships 
-			  with fellow interns and professionals within the company. These connections have not only enriched my professional network 
-				  but also added a personal dimension to my internship, making it an unforgettable experience.</p>
+        <p>10 Things That Require Zero Talent
+
+1. Being On Time
+2. Making An Effort
+3. Being High Energy
+4. Having A Positive Attitude
+5. Being Passionate
+6. Using Good Body Language
+7. Being Coachable
+8. Doing A Little Extra
+9. Being Prepared
+10. Having A Strong Work Ethic.</p>
         
       </section>
     </Layout>
